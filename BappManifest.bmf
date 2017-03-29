@@ -1,0 +1,12 @@
+Uuid: e2209cdad8474342a695b2e279c294f0
+ExtensionType: 1
+Name: CVSS Calculator
+RepoName: cvss-calculator
+ScreenVersion: 1.0
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: False
+Author: Moein Fatehi
+ShortDescription: Calculate CVSS v2 and v3 scores of vulnerabilities.
+EntryPoint: dist/CVSS_Calculator.jar
+BuildCommand: ant
