@@ -7,6 +7,6 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Moein Fatehi
-ShortDescription: Calculate CVSS v2 and v3 scores of vulnerabilities.
+ShortDescription: Calculates CVSS v2 and v3 scores of vulnerabilities.
 EntryPoint: dist/CVSS_Calculator.jar
 BuildCommand: ant
